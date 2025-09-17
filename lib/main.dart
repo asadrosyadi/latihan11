@@ -23,7 +23,7 @@ class _MyCounterAppState extends State<MyCounterApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Stateful Widget Demo',
+      title: 'dsfdsfhsdjkfhdskjfhdskjh',
       home: Scaffold(
         appBar: AppBar(title: const Text('Stateful Widget')),
         body: Center(child: Text('Counter: $counter')),
